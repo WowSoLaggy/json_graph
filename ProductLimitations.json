@@ -1,0 +1,23 @@
+{
+  "products":
+  [
+    {
+      "name": "A"
+    },
+    
+    {
+      "name": "B",
+      "inherits": "A"
+    },
+    
+    {
+      "name": "C",
+      "inherits": "A"
+    },
+    
+    {
+      "name": "D",
+      "inherits": "C"
+    }
+  ]
+}
